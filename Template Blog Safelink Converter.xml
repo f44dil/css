@@ -244,7 +244,7 @@ p.desc{text-shadow:0 1px 1px #fff,0 -1px 1px #000}
 </style>
 </b:if>
 
-  <b:if cond='data:blog.url == &quot;http://www.safelink.ga/p/generate.html&quot;'>
+  <b:if cond='data:blog.url == &quot;http://xlinkku.blogspot.com/p/generate.html&quot;'>
 <style type='text/css'>
 .postmeta,h2.post-title{position:fixed;top:-1000px;left:-1000px}
 .post-body{padding-top:10px}
@@ -418,7 +418,7 @@ Atau gunakan <b>Search Box</b> di bawah ini untuk kembali mencari artikel yang A
             <li><a href='http://www.safelink.ga/p/sitemap.html' title='Sitemaps'>Sitemaps</a></li>
           </ul>
           <ul class='nav navbar-nav navbar-right'>
-            <b:if cond='data:blog.url == &quot;http://www.safelink.ga/p/generate.html&quot;'>
+            <b:if cond='data:blog.url == &quot;http://xlinkku.blogspot.com/p/generate.html&quot;'>
             <li><a data-target='.how-to-use' data-toggle='modal' href='javascript:void(0)' title='How To Use'>How To Use</a></li>
             </b:if>
             <li><a data-target='.how-to-get' data-toggle='modal' href='javascript:void(0)' title='How To Get'>How To Get</a></li>
@@ -468,7 +468,7 @@ Atau gunakan <b>Search Box</b> di bawah ini untuk kembali mencari artikel yang A
 <textarea class='form-control' id='textArea' onclick='this.focus();this.select()' readonly='readonly' rows='11'>
 <script type='text/javascript'>
 //<![CDATA[
-protected_links = "www.safelink.ga,blogspot.com,youtube.com,facebook.com,google.com,twitter.com"; 
+protected_links = "http://xlinkku.blogspot.com,blogspot.com,youtube.com,facebook.com,google.com,twitter.com"; 
   (function() {
     var sl = document.createElement('script');
     sl.type = 'text/javascript'; sl.async = true;
